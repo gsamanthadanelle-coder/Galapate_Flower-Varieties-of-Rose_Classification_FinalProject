@@ -1,0 +1,10 @@
+0 red
+1 violet
+2 burgundy
+3 black
+4 white
+5 pink
+6 yellow
+7 light pink
+8 peach
+9 blue
